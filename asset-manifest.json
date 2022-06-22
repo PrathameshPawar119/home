@@ -1,15 +1,15 @@
 {
-  "main.css": "/my-app/static/css/main.2883125d.chunk.css",
-  "main.js": "/my-app/static/js/main.16e4a314.chunk.js",
-  "main.js.map": "/my-app/static/js/main.16e4a314.chunk.js.map",
-  "runtime~main.js": "/my-app/static/js/runtime~main.7a725f0a.js",
-  "runtime~main.js.map": "/my-app/static/js/runtime~main.7a725f0a.js.map",
-  "static/js/2.265c2a91.chunk.js": "/my-app/static/js/2.265c2a91.chunk.js",
-  "static/js/2.265c2a91.chunk.js.map": "/my-app/static/js/2.265c2a91.chunk.js.map",
-  "static/js/3.7fa365a8.chunk.js": "/my-app/static/js/3.7fa365a8.chunk.js",
-  "static/js/3.7fa365a8.chunk.js.map": "/my-app/static/js/3.7fa365a8.chunk.js.map",
-  "index.html": "/my-app/index.html",
-  "precache-manifest.1a4bf7aa4bd40985d430685ac1ab0782.js": "/my-app/precache-manifest.1a4bf7aa4bd40985d430685ac1ab0782.js",
-  "service-worker.js": "/my-app/service-worker.js",
-  "static/css/main.2883125d.chunk.css.map": "/my-app/static/css/main.2883125d.chunk.css.map"
+  "main.css": "/textutils/static/css/main.2883125d.chunk.css",
+  "main.js": "/textutils/static/js/main.c94f7ddb.chunk.js",
+  "main.js.map": "/textutils/static/js/main.c94f7ddb.chunk.js.map",
+  "runtime~main.js": "/textutils/static/js/runtime~main.9ba8c014.js",
+  "runtime~main.js.map": "/textutils/static/js/runtime~main.9ba8c014.js.map",
+  "static/js/2.265c2a91.chunk.js": "/textutils/static/js/2.265c2a91.chunk.js",
+  "static/js/2.265c2a91.chunk.js.map": "/textutils/static/js/2.265c2a91.chunk.js.map",
+  "static/js/3.7fa365a8.chunk.js": "/textutils/static/js/3.7fa365a8.chunk.js",
+  "static/js/3.7fa365a8.chunk.js.map": "/textutils/static/js/3.7fa365a8.chunk.js.map",
+  "index.html": "/textutils/index.html",
+  "precache-manifest.f871b07be637b8c39015d4b4253cb50d.js": "/textutils/precache-manifest.f871b07be637b8c39015d4b4253cb50d.js",
+  "service-worker.js": "/textutils/service-worker.js",
+  "static/css/main.2883125d.chunk.css.map": "/textutils/static/css/main.2883125d.chunk.css.map"
 }
